@@ -34,9 +34,10 @@ Contrato que gestiona los términos de comercio internacional (Incoterms) establ
 - **FCA** (Free Carrier): Entrega en punto acordado
 - **CPT** (Carriage Paid To): Vendedor paga transporte principal
 - **CIP** (Carriage and Insurance Paid): Vendedor paga transporte y seguro
+- **CIF** (Cost, Insurance and Freight): Vendedor cubre costos, seguro y flete hasta puerto de destino
 - **DAP** (Delivered At Place): Vendedor responsable hasta punto de entrega
 - **DDP** (Delivered Duty Paid): Máxima responsabilidad del vendedor
-- **CIF** (Cost, Insurance and Freight): Vendedor cubre costos, seguro y flete hasta puerto de destino
+
 
 #### Ejemplo de uso:
 ```solidity
